@@ -27,6 +27,3 @@ Arduino1 will be your client in the handshaking protocol and Arduino 2
 will be the server. Simply upload the code into both arduinos then open
 then launch serial monitor for Arduino1 followed by Arduino 2. 
 
-
-Errors:
-The final stream cipher is not implemented properly. The code is commented out in lines 98-100 of the code
